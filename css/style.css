@@ -126,3 +126,7 @@ nav{
 .copyright{
   text-align: center;
 }
+/*REGISTRATION PAGE*/
+#center-of-page{
+  overflow: hidden;
+}
