@@ -13,8 +13,8 @@ from mysql.connector import errorcode
 try:
     icft = mysql.connector.connect(
         host = "localhost",
-        user = "ICFT2019",
-        passwd = "wePlay",
+        user = "",
+        passwd = "",
         database = "JUB_ICFT"
     )
     if icft.is_connected():

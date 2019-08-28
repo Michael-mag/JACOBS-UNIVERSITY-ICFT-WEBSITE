@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "root";
+$username = "";
 $password = "";
-$dbname = "ICFT";
+$dbname = "JUB_ICFT";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
